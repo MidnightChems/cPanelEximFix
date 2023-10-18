@@ -3,4 +3,4 @@ Simple commands to run in SSH/Terminal on cPanel to fix the All hosts for 'domai
 
 Run at your own risk!
 
-Run the commands found in this repo on the cPanel terminal/SSH
+Run the commands found in the .sh file on the cPanel terminal/SSH
